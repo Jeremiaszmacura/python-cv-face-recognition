@@ -1,0 +1,1 @@
+Student project - face recognition using OpenCV
